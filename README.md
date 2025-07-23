@@ -111,7 +111,7 @@ We recommend the following:
 1. Inventory Planning:
    - Continue focusing on the $2k–$4k price range to attract cost-conscious buyers.
    - Maintain a balance of affordable vehicles with low mileage to appeal to both price and quality seekers.
-   - 
+    
 2. Targeted Procurement:
    - Prioritize Ford and Chevrolet for stock replenishment due to higher profitability.
    - Evaluate conditions of high-mileage but high-priced vehicles for brand-based premium pricing strategy.
@@ -135,3 +135,9 @@ owv-izmj-kcg
 A limitation in data analysis reporting refers to any factor that restricts, weakens, or challenges the accuracy, scope, or generalizability of the analysis results.
 
 While the analysis provided key insights into car pricing and brand performance, limitations such as missing mileage data and lack of customer purchase history may have affected the completeness of the conclusions. Future analysis should aim to include these data points for a more comprehensive overview.”
+
+
+
+### References
+
+[Car Dataset](https://docs.google.com/spreadsheets/d/148gzCAxQno4wlIj_tzgUIyDTG8y4ifRr/edit?usp=sharing&ouid=107969485968939728677&rtpof=true&sd=true)
